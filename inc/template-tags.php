@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
- * @package realedu
+ * @package realEDU
  */
 
 if ( ! function_exists( 'realedu_posted_on' ) ) :

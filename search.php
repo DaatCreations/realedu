@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#search-result
  *
- * @package realedu
+ * @package realEDU
  */
 
 get_header(); ?>

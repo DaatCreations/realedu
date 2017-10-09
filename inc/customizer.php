@@ -1,8 +1,8 @@
 <?php
 /**
- * realedu Theme Customizer
+ * realEDU Theme Customizer
  *
- * @package realedu
+ * @package realEDU
  */
 
 /**
